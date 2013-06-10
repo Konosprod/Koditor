@@ -1,3 +1,8 @@
+Koditor
+=======
+
+Un éditeur de texte possédant un terminal à la manière de Geany.
+
 Comment compiler ?
 
 - Téléchargez et extrayez l'archive quelque part dans votre ordinateur
